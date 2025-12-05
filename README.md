@@ -8,7 +8,7 @@ We use a **Random Forest Classifier** to model the likelihood of a DNF based on 
 
 The datasets used in this project are from **Kaggle**, covering historical Formula 1 races, drivers, constructors, qualifying results, and race outcomes.  
 
-- **2015–2024 historical data:** [Formula 1 World Championship 1950–2024](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)  
+- **2015-2024 historical data:** [Formula 1 World Championship 1950–2024](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)  
 - **2025 season results:** [Formula 1 Championships 1950–2025](https://www.kaggle.com/datasets/rockyt07/formula-1-championships-1950-2025)
 
 > Note: Large CSV files are not included in this repository. You will need to download them from Kaggle and upload them to the notebook to run the analysis.
